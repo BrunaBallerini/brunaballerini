@@ -1,5 +1,5 @@
 <h2 align="center"> 
-    :wave:  Bem vindo ao meu perfil GitHub  :woman_technologist:
+    Bem vindo ao meu perfil GitHub  :woman_technologist:
 </h2>
 
 <!--
